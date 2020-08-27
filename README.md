@@ -23,3 +23,6 @@ draw.on('drawend',evt=>{<br />
 
 
 #todo: click vào 1 icon(feature) thì hiển thị 1 overlay có thông tin của icon
+
+
+asddsa
